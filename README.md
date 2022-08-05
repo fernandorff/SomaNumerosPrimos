@@ -1,4 +1,4 @@
-# Atividade de algoritmo
+# Estudos de algoritmo
 
 ## Soma de números primos
 
